@@ -10,5 +10,7 @@ begin
   Readln(Name);
   Writeln;
   Writeln('Hello, ', Name);
+  Writeln;
+  Writeln('Press enter to exit...');
   Readln;
 end.
